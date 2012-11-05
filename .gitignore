@@ -1,0 +1,8 @@
+# ANT build directory
+build/
+
+# IDEA IDE project files
+.idea/
+*.ipr
+*.iws
+*.iml
